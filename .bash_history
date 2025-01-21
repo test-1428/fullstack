@@ -91,3 +91,10 @@ git log
 git rm .gitconfig
 git rm ".gitconfig"
 clear
+git status
+ls -ltra
+git add .
+git add .*
+ls
+git log
+git init
