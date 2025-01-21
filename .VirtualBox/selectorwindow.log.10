@@ -1,0 +1,22 @@
+00:00:00.697495 VirtualBox GUI VM Selector Window 7.1.4 r165100 win.amd64 (Oct 10 2024 18:57:17) release log
+00:00:00.697497 Log opened 2025-01-03T08:51:49.582014600Z
+00:00:00.697498 Build Type: release
+00:00:00.697502 OS Product: Windows 11
+00:00:00.697502 OS Release: 10.0.26100
+00:00:00.697503 OS Service Pack: 
+00:00:00.713111 DMI Product Name: Inspiron 5502
+00:00:00.720383 DMI Product Version: 
+00:00:00.720390 Firmware type: UEFI
+00:00:00.720831 Secure Boot: Enabled
+00:00:00.720837 Host RAM: 7918MB (7.7GB) total, 1430MB available
+00:00:00.720840 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:00.720841 Process ID: 9340
+00:00:00.720841 Package type: WINDOWS_64BITS_GENERIC
+00:00:00.720841 Windows Features:
+00:00:00.720841   Core Isolation (Memory Integrity): ENABLED
+00:00:00.720972 Qt version: 6.5.3
+00:00:00.721544 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.737835 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.386386 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:58:36.814601 GUI: UICommon: Handling aboutToQuit request..
+00:58:37.340714 GUI: UICommon: aboutToQuit request handled!

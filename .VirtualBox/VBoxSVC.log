@@ -1,0 +1,59 @@
+00:00:00.004435 main     VirtualBox COM Server 7.1.4 r165100 win.amd64 (Oct 10 2024 18:57:17) release log
+00:00:00.004439 main     Log opened 2025-01-15T11:35:05.987743200Z
+00:00:00.004439 main     Build Type: release
+00:00:00.004445 main     OS Product: Windows 11
+00:00:00.004446 main     OS Release: 10.0.26100
+00:00:00.004447 main     OS Service Pack: 
+00:00:00.038115 main     DMI Product Name: Inspiron 5502
+00:00:00.052974 main     DMI Product Version: 
+00:00:00.052980 main     Firmware type: UEFI
+00:00:00.053729 main     Secure Boot: Enabled
+00:00:00.053738 main     Host RAM: 7918MB (7.7GB) total, 2421MB (2.3GB) available
+00:00:00.053742 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.053742 main     Process ID: 12360
+00:00:00.053743 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.053745 main     Windows Features:
+00:00:00.053745 main       Core Isolation (Memory Integrity): ENABLED
+00:00:00.142926          VirtualBox: object creation starts
+00:00:00.143279          Home directory: 'C:\Users\Admin\.VirtualBox'
+00:00:00.143524          Installed Drivers:
+00:00:00.194580          Loading settings file "C:\Users\Admin\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.197021          usbLibGetDevices: Starting USB device enumeration
+00:00:00.220084          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&c2333a7&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:00:00.220136          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&c2333a7&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 6
+00:00:00.220176          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&c2333a7&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:00:00.222226          usbLibGetDevices: Found 4 USB devices, 0 captured
+00:00:00.222288          USB: Unknown USB device detected (idVendor: 0x0bda, idProduct: 0x5538)
+00:00:00.222300          USB: Unknown USB device detected (idVendor: 0x0cf3, idProduct: 0xe007)
+00:00:00.222343          USB: Unknown USB device detected (idVendor: 0x27c6, idProduct: 0x538d)
+00:00:00.328623          HostDnsMonitor: initializing
+00:00:00.346633          HostDnsMonitor: updating information
+00:00:00.346672          HostDnsMonitor: old information
+00:00:00.346673            no server entries
+00:00:00.346674            no domain set
+00:00:00.346674            no search string entries
+00:00:00.346675          HostDnsMonitor: new information
+00:00:00.346675            server 1: 192.168.29.1
+00:00:00.346676            no domain set
+00:00:00.346677            no search string entries
+00:00:00.351521          VD: VDInit finished with VINF_SUCCESS
+00:00:00.352565          Platform architecture set to 'x86'
+00:00:00.378422          Loading settings file "C:\Users\Admin\VirtualBox VMs\Ubuntu\Ubuntu.vbox" with version "1.19-windows"
+00:00:00.378683          Platform architecture set to 'x86'
+00:00:00.379379          VirtualBox: object created
+00:00:00.504118          Saving settings file "C:\Users\Admin\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.506721          Finished saving settings file "C:\Users\Admin\.VirtualBox\VirtualBox.xml"
+00:00:00.506914          Saving settings file "C:\Users\Admin\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.509190          Finished saving settings file "C:\Users\Admin\.VirtualBox\VirtualBox.xml"
+00:00:00.509424          Saving settings file "C:\Users\Admin\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.511814          Finished saving settings file "C:\Users\Admin\.VirtualBox\VirtualBox.xml"
+00:00:01.259964          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:01.396821          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:02.926592 dns-monitor HostDnsMonitor: updating information
+00:00:02.926619 dns-monitor HostDnsMonitor: unchanged
+00:00:10.566999 main     VirtualBox: object deletion starts
+00:00:10.567712 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Medium 'C:\Users\Admin\VirtualBox VMs\Ubuntu\Ubuntu.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:00:10.572783 main     HostDnsMonitor: shutting down ...
+00:00:10.572931 main     HostDnsMonitor: shut down
+00:00:10.574635 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d644ad1e-c501-4fc7-9ab6-aa6d763bc540} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:10.575407 main     VirtualBox: object deleted
