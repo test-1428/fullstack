@@ -98,3 +98,11 @@ git add .*
 ls
 git log
 git init
+git init
+git add README.md
+git commit -m "first commit"
+git add .*
+git commit -m "first update"
+git branch -M main
+git remote add origin https://github.com/test-1428/fullstack.git
+git push -u origin main
