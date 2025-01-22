@@ -1,4 +1,5 @@
 vi janu.sh
+making chages
 git status
 git log
 git push
