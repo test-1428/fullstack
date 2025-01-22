@@ -106,3 +106,19 @@ git commit -m "first update"
 git branch -M main
 git remote add origin https://github.com/test-1428/fullstack.git
 git push -u origin main
+git init
+git add README.md
+git commit -m "first commit
+
+git commit -m "first commit"
+git add .*
+git add .
+git add .*
+git commit -m "commit update"
+git branch -M main
+git remote add origin https://github.com/test-1428/fullstack--2.git
+git remote add origin https://github.com/test-1428/fullstack--2.git
+git help
+git clone git remote add origin https://github.com/test-1428/fullstack--2.git
+git push -u origin main
+git init
