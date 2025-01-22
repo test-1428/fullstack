@@ -1,4 +1,6 @@
 00:00:00.004435 main     VirtualBox COM Server 7.1.4 r165100 win.amd64 (Oct 10 2024 18:57:17) release log
+this is a new change
+
 00:00:00.004439 main     Log opened 2025-01-15T11:35:05.987743200Z
 00:00:00.004439 main     Build Type: release
 00:00:00.004445 main     OS Product: Windows 11
