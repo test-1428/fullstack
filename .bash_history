@@ -122,3 +122,14 @@ git help
 git clone git remote add origin https://github.com/test-1428/fullstack--2.git
 git push -u origin main
 git init
+git init
+git add README.md
+git commit -m "first commit"
+git add .*
+git commit -m "new commit added"
+git remote add origin https://github.com/test-1428/new-repo.git
+git push -u origin main
+git pull
+git pull
+git remote add origin https://github.com/test-1428/new-repo.git
+git push

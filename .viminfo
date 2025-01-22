@@ -6,16 +6,15 @@
 
 # Value of 'encoding' when this file was written
 *encoding=utf-8
-# here iam adding the changes
 
 
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:wq!
+|2,0,1737552033,,"wq!"
 :q!
 |2,0,1737293678,,"q!"
-:wq!
-|2,0,1737282169,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -28,28 +27,34 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/.gitconfig/
-|4,48,1,0,1737293678,"~/.gitconfig/"
-'1  1  0  ~/.ssh/id_rsa
-|4,49,1,0,1737292323,"~/.ssh/id_rsa"
+'0  8  0  ~/.git/MERGE_MSG
+|4,48,8,0,1737552033,"~/.git/MERGE_MSG"
+'1  1  0  ~/.gitconfig/
+|4,49,1,0,1737293678,"~/.gitconfig/"
 '2  1  0  ~/.ssh/id_rsa
-|4,50,1,0,1737292102,"~/.ssh/id_rsa"
-'3  1  0  ~/janu.sh
-|4,51,1,0,1737290953,"~/janu.sh"
-'4  3  15  ~/janu.sh
-|4,52,3,15,1737282626,"~/janu.sh"
+|4,50,1,0,1737292323,"~/.ssh/id_rsa"
+'3  1  0  ~/.ssh/id_rsa
+|4,51,1,0,1737292102,"~/.ssh/id_rsa"
+'4  1  0  ~/janu.sh
+|4,52,1,0,1737290953,"~/janu.sh"
 '5  3  15  ~/janu.sh
 |4,53,3,15,1737282626,"~/janu.sh"
-'6  1  0  ~/.git/COMMIT_EDITMSG
-|4,54,1,0,1737282349,"~/.git/COMMIT_EDITMSG"
-'7  2  10  ~/janu.sh
-|4,55,2,10,1737282169,"~/janu.sh"
+'6  3  15  ~/janu.sh
+|4,54,3,15,1737282626,"~/janu.sh"
+'7  1  0  ~/.git/COMMIT_EDITMSG
+|4,55,1,0,1737282349,"~/.git/COMMIT_EDITMSG"
 '8  2  10  ~/janu.sh
 |4,56,2,10,1737282169,"~/janu.sh"
 '9  2  10  ~/janu.sh
 |4,57,2,10,1737282169,"~/janu.sh"
 
 # Jumplist (newest first):
+-'  8  0  ~/.git/MERGE_MSG
+|4,39,8,0,1737552033,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1737551977,"~/.git/MERGE_MSG"
+-'  1  0  ~/.gitconfig/
+|4,39,1,0,1737293678,"~/.gitconfig/"
 -'  1  0  ~/.gitconfig/
 |4,39,1,0,1737293678,"~/.gitconfig/"
 -'  1  0  ~/.ssh/id_rsa
@@ -57,6 +62,14 @@
 -'  1  0  ~/.ssh/id_rsa
 |4,39,1,0,1737292323,"~/.ssh/id_rsa"
 -'  1  0  ~/.ssh/id_rsa
+|4,39,1,0,1737292323,"~/.ssh/id_rsa"
+-'  1  0  ~/.ssh/id_rsa
+|4,39,1,0,1737292323,"~/.ssh/id_rsa"
+-'  1  0  ~/.ssh/id_rsa
+|4,39,1,0,1737292102,"~/.ssh/id_rsa"
+-'  1  0  ~/.ssh/id_rsa
+|4,39,1,0,1737292102,"~/.ssh/id_rsa"
+-'  1  0  ~/.ssh/id_rsa
 |4,39,1,0,1737292102,"~/.ssh/id_rsa"
 -'  1  0  ~/.ssh/id_rsa
 |4,39,1,0,1737292102,"~/.ssh/id_rsa"
@@ -76,182 +89,175 @@
 |4,39,1,0,1737290953,"~/janu.sh"
 -'  1  0  ~/janu.sh
 |4,39,1,0,1737290953,"~/janu.sh"
--'  3  15  ~/janu.sh
-|4,39,3,15,1737282626,"~/janu.sh"
--'  3  15  ~/janu.sh
-|4,39,3,15,1737282626,"~/janu.sh"
--'  3  15  ~/janu.sh
-|4,39,3,15,1737282626,"~/janu.sh"
--'  3  15  ~/janu.sh
-|4,39,3,15,1737282626,"~/janu.sh"
--'  3  15  ~/janu.sh
-|4,39,3,15,1737282626,"~/janu.sh"
--'  3  15  ~/janu.sh
-|4,39,3,15,1737282626,"~/janu.sh"
--'  3  15  ~/janu.sh
-|4,39,3,15,1737282626,"~/janu.sh"
--'  3  15  ~/janu.sh
-|4,39,3,15,1737282626,"~/janu.sh"
--'  3  15  ~/janu.sh
-|4,39,3,15,1737282626,"~/janu.sh"
--'  3  15  ~/janu.sh
-|4,39,3,15,1737282626,"~/janu.sh"
--'  3  15  ~/janu.sh
-|4,39,3,15,1737282626,"~/janu.sh"
--'  3  15  ~/janu.sh
-|4,39,3,15,1737282626,"~/janu.sh"
--'  3  15  ~/janu.sh
-|4,39,3,15,1737282626,"~/janu.sh"
--'  3  15  ~/janu.sh
-|4,39,3,15,1737282626,"~/janu.sh"
--'  3  15  ~/janu.sh
-|4,39,3,15,1737282626,"~/janu.sh"
--'  3  15  ~/janu.sh
-|4,39,3,15,1737282626,"~/janu.sh"
--'  2  10  ~/janu.sh
-|4,39,2,10,1737282595,"~/janu.sh"
--'  2  10  ~/janu.sh
-|4,39,2,10,1737282595,"~/janu.sh"
--'  2  10  ~/janu.sh
-|4,39,2,10,1737282595,"~/janu.sh"
--'  2  10  ~/janu.sh
-|4,39,2,10,1737282595,"~/janu.sh"
--'  2  10  ~/janu.sh
-|4,39,2,10,1737282595,"~/janu.sh"
--'  2  10  ~/janu.sh
-|4,39,2,10,1737282595,"~/janu.sh"
--'  2  10  ~/janu.sh
-|4,39,2,10,1737282595,"~/janu.sh"
--'  2  10  ~/janu.sh
-|4,39,2,10,1737282595,"~/janu.sh"
--'  2  10  ~/janu.sh
-|4,39,2,10,1737282595,"~/janu.sh"
--'  2  10  ~/janu.sh
-|4,39,2,10,1737282595,"~/janu.sh"
--'  2  10  ~/janu.sh
-|4,39,2,10,1737282595,"~/janu.sh"
--'  2  10  ~/janu.sh
-|4,39,2,10,1737282595,"~/janu.sh"
--'  2  10  ~/janu.sh
-|4,39,2,10,1737282595,"~/janu.sh"
--'  2  10  ~/janu.sh
-|4,39,2,10,1737282595,"~/janu.sh"
--'  2  10  ~/janu.sh
-|4,39,2,10,1737282595,"~/janu.sh"
--'  2  10  ~/janu.sh
-|4,39,2,10,1737282595,"~/janu.sh"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1737282349,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1737282349,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1737282349,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1737282349,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1737282349,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1737282349,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1737282349,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1737282349,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1737282349,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1737282349,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1737282349,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1737282349,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1737282349,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1737282349,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1737282349,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1737282349,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1737282349,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1737282349,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1737282349,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1737282349,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1737282349,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1737282349,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1737282349,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1737282349,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1737282349,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1737282349,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1737282349,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1737282349,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1737282349,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1737282349,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1737282349,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1737282349,"~/.git/COMMIT_EDITMSG"
--'  2  10  ~/janu.sh
-|4,39,2,10,1737282169,"~/janu.sh"
--'  2  10  ~/janu.sh
-|4,39,2,10,1737282169,"~/janu.sh"
--'  2  10  ~/janu.sh
-|4,39,2,10,1737282169,"~/janu.sh"
--'  2  10  ~/janu.sh
-|4,39,2,10,1737282169,"~/janu.sh"
--'  2  10  ~/janu.sh
-|4,39,2,10,1737282169,"~/janu.sh"
--'  2  10  ~/janu.sh
-|4,39,2,10,1737282169,"~/janu.sh"
--'  2  10  ~/janu.sh
-|4,39,2,10,1737282169,"~/janu.sh"
--'  2  10  ~/janu.sh
-|4,39,2,10,1737282169,"~/janu.sh"
--'  2  10  ~/janu.sh
-|4,39,2,10,1737282169,"~/janu.sh"
--'  2  10  ~/janu.sh
-|4,39,2,10,1737282169,"~/janu.sh"
--'  2  10  ~/janu.sh
-|4,39,2,10,1737282169,"~/janu.sh"
--'  2  10  ~/janu.sh
-|4,39,2,10,1737282169,"~/janu.sh"
--'  2  10  ~/janu.sh
-|4,39,2,10,1737282169,"~/janu.sh"
--'  2  10  ~/janu.sh
-|4,39,2,10,1737282169,"~/janu.sh"
--'  2  10  ~/janu.sh
-|4,39,2,10,1737282169,"~/janu.sh"
--'  2  10  ~/janu.sh
-|4,39,2,10,1737282169,"~/janu.sh"
 -'  1  0  ~/janu.sh
-|4,39,1,0,1737282119,"~/janu.sh"
+|4,39,1,0,1737290953,"~/janu.sh"
 -'  1  0  ~/janu.sh
-|4,39,1,0,1737282119,"~/janu.sh"
+|4,39,1,0,1737290953,"~/janu.sh"
 -'  1  0  ~/janu.sh
-|4,39,1,0,1737282119,"~/janu.sh"
+|4,39,1,0,1737290953,"~/janu.sh"
 -'  1  0  ~/janu.sh
-|4,39,1,0,1737282119,"~/janu.sh"
+|4,39,1,0,1737290953,"~/janu.sh"
 -'  1  0  ~/janu.sh
-|4,39,1,0,1737282119,"~/janu.sh"
+|4,39,1,0,1737290953,"~/janu.sh"
 -'  1  0  ~/janu.sh
-|4,39,1,0,1737282119,"~/janu.sh"
+|4,39,1,0,1737290953,"~/janu.sh"
 -'  1  0  ~/janu.sh
-|4,39,1,0,1737282119,"~/janu.sh"
+|4,39,1,0,1737290953,"~/janu.sh"
+-'  1  0  ~/janu.sh
+|4,39,1,0,1737290953,"~/janu.sh"
+-'  3  15  ~/janu.sh
+|4,39,3,15,1737282626,"~/janu.sh"
+-'  3  15  ~/janu.sh
+|4,39,3,15,1737282626,"~/janu.sh"
+-'  3  15  ~/janu.sh
+|4,39,3,15,1737282626,"~/janu.sh"
+-'  3  15  ~/janu.sh
+|4,39,3,15,1737282626,"~/janu.sh"
+-'  3  15  ~/janu.sh
+|4,39,3,15,1737282626,"~/janu.sh"
+-'  3  15  ~/janu.sh
+|4,39,3,15,1737282626,"~/janu.sh"
+-'  3  15  ~/janu.sh
+|4,39,3,15,1737282626,"~/janu.sh"
+-'  3  15  ~/janu.sh
+|4,39,3,15,1737282626,"~/janu.sh"
+-'  3  15  ~/janu.sh
+|4,39,3,15,1737282626,"~/janu.sh"
+-'  3  15  ~/janu.sh
+|4,39,3,15,1737282626,"~/janu.sh"
+-'  3  15  ~/janu.sh
+|4,39,3,15,1737282626,"~/janu.sh"
+-'  3  15  ~/janu.sh
+|4,39,3,15,1737282626,"~/janu.sh"
+-'  3  15  ~/janu.sh
+|4,39,3,15,1737282626,"~/janu.sh"
+-'  3  15  ~/janu.sh
+|4,39,3,15,1737282626,"~/janu.sh"
+-'  3  15  ~/janu.sh
+|4,39,3,15,1737282626,"~/janu.sh"
+-'  3  15  ~/janu.sh
+|4,39,3,15,1737282626,"~/janu.sh"
+-'  3  15  ~/janu.sh
+|4,39,3,15,1737282626,"~/janu.sh"
+-'  3  15  ~/janu.sh
+|4,39,3,15,1737282626,"~/janu.sh"
+-'  3  15  ~/janu.sh
+|4,39,3,15,1737282626,"~/janu.sh"
+-'  3  15  ~/janu.sh
+|4,39,3,15,1737282626,"~/janu.sh"
+-'  3  15  ~/janu.sh
+|4,39,3,15,1737282626,"~/janu.sh"
+-'  3  15  ~/janu.sh
+|4,39,3,15,1737282626,"~/janu.sh"
+-'  3  15  ~/janu.sh
+|4,39,3,15,1737282626,"~/janu.sh"
+-'  3  15  ~/janu.sh
+|4,39,3,15,1737282626,"~/janu.sh"
+-'  3  15  ~/janu.sh
+|4,39,3,15,1737282626,"~/janu.sh"
+-'  3  15  ~/janu.sh
+|4,39,3,15,1737282626,"~/janu.sh"
+-'  3  15  ~/janu.sh
+|4,39,3,15,1737282626,"~/janu.sh"
+-'  3  15  ~/janu.sh
+|4,39,3,15,1737282626,"~/janu.sh"
+-'  3  15  ~/janu.sh
+|4,39,3,15,1737282626,"~/janu.sh"
+-'  3  15  ~/janu.sh
+|4,39,3,15,1737282626,"~/janu.sh"
+-'  3  15  ~/janu.sh
+|4,39,3,15,1737282626,"~/janu.sh"
+-'  3  15  ~/janu.sh
+|4,39,3,15,1737282626,"~/janu.sh"
+-'  2  10  ~/janu.sh
+|4,39,2,10,1737282595,"~/janu.sh"
+-'  2  10  ~/janu.sh
+|4,39,2,10,1737282595,"~/janu.sh"
+-'  2  10  ~/janu.sh
+|4,39,2,10,1737282595,"~/janu.sh"
+-'  2  10  ~/janu.sh
+|4,39,2,10,1737282595,"~/janu.sh"
+-'  2  10  ~/janu.sh
+|4,39,2,10,1737282595,"~/janu.sh"
+-'  2  10  ~/janu.sh
+|4,39,2,10,1737282595,"~/janu.sh"
+-'  2  10  ~/janu.sh
+|4,39,2,10,1737282595,"~/janu.sh"
+-'  2  10  ~/janu.sh
+|4,39,2,10,1737282595,"~/janu.sh"
+-'  2  10  ~/janu.sh
+|4,39,2,10,1737282595,"~/janu.sh"
+-'  2  10  ~/janu.sh
+|4,39,2,10,1737282595,"~/janu.sh"
+-'  2  10  ~/janu.sh
+|4,39,2,10,1737282595,"~/janu.sh"
+-'  2  10  ~/janu.sh
+|4,39,2,10,1737282595,"~/janu.sh"
+-'  2  10  ~/janu.sh
+|4,39,2,10,1737282595,"~/janu.sh"
+-'  2  10  ~/janu.sh
+|4,39,2,10,1737282595,"~/janu.sh"
+-'  2  10  ~/janu.sh
+|4,39,2,10,1737282595,"~/janu.sh"
+-'  2  10  ~/janu.sh
+|4,39,2,10,1737282595,"~/janu.sh"
+-'  2  10  ~/janu.sh
+|4,39,2,10,1737282595,"~/janu.sh"
+-'  2  10  ~/janu.sh
+|4,39,2,10,1737282595,"~/janu.sh"
+-'  2  10  ~/janu.sh
+|4,39,2,10,1737282595,"~/janu.sh"
+-'  2  10  ~/janu.sh
+|4,39,2,10,1737282595,"~/janu.sh"
+-'  2  10  ~/janu.sh
+|4,39,2,10,1737282595,"~/janu.sh"
+-'  2  10  ~/janu.sh
+|4,39,2,10,1737282595,"~/janu.sh"
+-'  2  10  ~/janu.sh
+|4,39,2,10,1737282595,"~/janu.sh"
+-'  2  10  ~/janu.sh
+|4,39,2,10,1737282595,"~/janu.sh"
+-'  2  10  ~/janu.sh
+|4,39,2,10,1737282595,"~/janu.sh"
+-'  2  10  ~/janu.sh
+|4,39,2,10,1737282595,"~/janu.sh"
+-'  2  10  ~/janu.sh
+|4,39,2,10,1737282595,"~/janu.sh"
+-'  2  10  ~/janu.sh
+|4,39,2,10,1737282595,"~/janu.sh"
+-'  2  10  ~/janu.sh
+|4,39,2,10,1737282595,"~/janu.sh"
+-'  2  10  ~/janu.sh
+|4,39,2,10,1737282595,"~/janu.sh"
+-'  2  10  ~/janu.sh
+|4,39,2,10,1737282595,"~/janu.sh"
+-'  2  10  ~/janu.sh
+|4,39,2,10,1737282595,"~/janu.sh"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1737282349,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1737282349,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1737282349,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1737282349,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1737282349,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1737282349,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1737282349,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1737282349,"~/.git/COMMIT_EDITMSG"
 
 # History of marks within files (newest to oldest):
+
+> ~/.git/MERGE_MSG
+	*	1737552029	0
+	"	8	0
+	^	8	0
+	.	7	14
+	+	7	14
 
 > ~/.ssh/id_rsa
 	*	1737292318	0
