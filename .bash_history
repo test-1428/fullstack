@@ -133,3 +133,11 @@ git pull
 git pull
 git remote add origin https://github.com/test-1428/new-repo.git
 git push
+git init
+git add .*
+git clonehttps://github.com/test-1428/new-repo.git
+git clone https://github.com/test-1428/new-repo.git
+git add .
+git add .*
+git commit -m "first repo commit"
+git push
