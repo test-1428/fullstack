@@ -142,3 +142,14 @@ git add .
 git add .*
 git commit -m "first repo commit"
 git push
+git init
+git add .
+git add .*
+git clone https://github.com/iam-veeramalla/http-status-codes.git
+git commit -m "abhi commit"
+git push 
+git pull
+git add .*
+git clone https://github.com/iam-veeramalla/http-status-codes.git
+git push
+git pull
