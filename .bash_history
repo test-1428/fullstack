@@ -153,3 +153,16 @@ git add .*
 git clone https://github.com/iam-veeramalla/http-status-codes.git
 git push
 git pull
+git init
+git add .
+git add .*
+git add .
+ls
+vi test1
+git add .
+git add test1
+git add .*
+git log
+ls
+git ls -ltra
+git commit -m "5th commit "
