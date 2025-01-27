@@ -166,3 +166,28 @@ git log
 ls
 git ls -ltra
 git commit -m "5th commit "
+checkout main
+git init
+ls
+vi test1
+git add .
+git add .*
+git commit -m "commits made"
+git remote add origin https://github.com/iam-veeramalla/devops-project-ideas.git
+git push
+git branch -M main
+git push
+git pull
+git remote add origin
+git checkout -b test
+git remote add origin https://github.com/iam-veeramalla/devops-project-ideas.git
+git push
+git push --set -upstream origin test
+git push
+git push --set-upstream origin test
+git push
+git pull
+checkout main
+git checkout main
+ls
+git log
